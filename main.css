@@ -1,0 +1,69 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.headerindex {
+    background-color: rgb(210, 222, 216);
+}
+
+.tituloindex {
+    color: rgb(115, 115, 115);
+    text-align: center;
+    display: block;
+}
+
+.logoindex{
+    margin-top: 3px;
+    margin-bottom: 3px;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+
+.registrarse {
+    font-style: italic;
+    font-weight: bold;
+    background-color: rgb(115, 115, 115);
+    text-align: center;
+    color: white;
+    margin: 3px;
+    padding: auto;
+}
+
+.iniciarsesion {
+    font-style: italic;
+    font-weight: bold;
+    background-color: rgb(115, 115, 115);
+    text-align: center;
+    color: white;
+    margin: 3px;
+    padding: auto;
+}
+
+.registrarse:hover {
+    background-color: rgb(12, 123, 130);
+}
+.iniciarsesion:hover {
+    background-color: rgb(12, 123, 130);
+}
+
+.navegacionindex ul {
+    text-decoration: none;
+    background-color: rgb(12, 123, 130);
+}
+
+.navegacionindex ul a {
+    text-decoration: none;
+    padding: 5px;
+    color: white;
+}
+
+
+p {
+    text-align: center;
+    font-size: 14pt;
+}
+
+.container2indexregistrarse {
+    background-color: rgb(210, 222, 216);
+}
